@@ -1,4 +1,4 @@
-# CartoDB-SQL-API [![Build Status](https://travis-ci.org/CartoDB/CartoDB-SQL-API.svg?branch=master)](https://travis-ci.org/CartoDB/CartoDB-SQL-API)
+# CartoDB-SQL-API [![Build Status](https://travis-ci.org/Global-Mapping-Hub/CartoDB-SQL-API.svg?branch=master)](https://travis-ci.org/Global-Mapping-Hub/CartoDB-SQL-API)
 
 The [`CARTO’s SQL API`](https://carto.com/developers/sql-api/) allows you to interact with your data inside CARTO, as if you were running SQL statements against a normal database.
 
@@ -94,17 +94,17 @@ Open `./coverage/lcov-report/index.html`.
 
 ## Documentation
 
-You can find an overview, guides, full reference, and support in [`CARTO's developer center`](https://carto.com/developers/sql-api/). The [docs directory](https://github.com/CartoDB/CartoDB-SQL-API/tree/master/docs) contains different documentation resources, from a higher level to more detailed ones.
+You can find an overview, guides, full reference, and support in [`CARTO's developer center`](https://carto.com/developers/sql-api/). The [docs directory](https://github.com/Global-Mapping-Hub/CartoDB-SQL-API/tree/master/docs) contains different documentation resources, from a higher level to more detailed ones.
 
 ## Contributing
 
-* The issue tracker: [`Github`](https://github.com/CartoDB/CartoDB-SQL-API/issues).
+* The issue tracker: [`Github`](https://github.com/Global-Mapping-Hub/CartoDB-SQL-API/issues).
 * We love Pull Requests from everyone, see [contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/#contributing).
 * You'll need to sign a Contributor License Agreement (CLA) before submitting a Pull Request. [Learn more here](https://carto.com/contributions).
 
 ## Versioning
 
-We follow [`SemVer`](http://semver.org/) for versioning. For available versions, see the [tags on this repository](https://github.com/CartoDB/CartoDB-SQL-API/tags).
+We follow [`SemVer`](http://semver.org/) for versioning. For available versions, see the [tags on this repository](https://github.com/Global-Mapping-Hub/CartoDB-SQL-API/tags).
 
 ## License
 

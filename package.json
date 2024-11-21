@@ -11,11 +11,11 @@
     "export",
     "geospatial"
   ],
-  "url": "https://github.com/CartoDB/CartoDB-SQL-API",
+  "url": "https://github.com/Global-Mapping-Hub/CartoDB-SQL-API",
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
-    "url": "git://github.com/CartoDB/CartoDB-SQL-API.git"
+    "url": "git://github.com/Global-Mapping-Hub/CartoDB-SQL-API.git"
   },
   "author": "CARTO (https://carto.com)",
   "contributors": [
