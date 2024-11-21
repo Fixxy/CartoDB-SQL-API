@@ -1,4 +1,4 @@
-# CartoDB-SQL-API [![Build Status](https://travis-ci.org/Global-Mapping-Hub/CartoDB-SQL-API.svg?branch=master)](https://travis-ci.org/Global-Mapping-Hub/CartoDB-SQL-API)
+# CartoDB-SQL-API
 
 The [`CARTO’s SQL API`](https://carto.com/developers/sql-api/) allows you to interact with your data inside CARTO, as if you were running SQL statements against a normal database.
 
